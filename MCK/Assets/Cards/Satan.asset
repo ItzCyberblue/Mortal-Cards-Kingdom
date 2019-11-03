@@ -11,6 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fba16ed737c9531409695699c9662631, type: 3}
   m_Name: Satan
   m_EditorClassIdentifier: 
+  name: Satan
   damage: 5
   strength: 12
   description: I AM YOUR GOD. I WILL REIGN FOREVER!!
